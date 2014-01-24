@@ -1,0 +1,7 @@
+INSTALL
+MANIFEST
+Makefile.PL
+README
+lib/bleak/PerlTemplate.pm
+bin/sal-array3par.pl
+t/SAL-Array3PAR.t
